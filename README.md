@@ -9,4 +9,4 @@ Hi there!✊
 - 🤓 Im currently looking for help with: Connecting an API to a project.
 - 📎 Fun fact: I love chicken naan and taking the extra mile :).
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Thewsthews)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Thewsthews&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
