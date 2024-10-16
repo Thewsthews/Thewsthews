@@ -10,3 +10,5 @@ Hi there!✊🏾
 - 📎 Fun fact: I love chicken naan and taking the extra mile :).
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Thewsthews&theme=youtube-dark&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=210)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thewsthewsicons=true&theme=shadow-red)
