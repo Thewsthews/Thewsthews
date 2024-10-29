@@ -20,11 +20,11 @@ Hi there!✊🏾
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://twitter.com/BookofT_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black" alt="twitter"/>
   </a>
   <a href="https://instagram.com/dvble.m_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Thewsthews&color=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Thewsthews&color=red)
