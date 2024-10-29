@@ -27,4 +27,4 @@ Hi there!✊🏾
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Thewsthews&color=dark_red)
+![Profile Views](https://komarev.com/ghpvc/?username=Thewsthews&color=8b0000)
