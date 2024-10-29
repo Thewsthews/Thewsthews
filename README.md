@@ -13,7 +13,7 @@ Hi there!✊🏾
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thewsthews&show_icons=true&theme=shadow_red&hide=stars)](https://github.com/Thewsthews/github-readme-stats)
 
-## Connect With Me
+## Connect With Me 🕵🏾‍♂️
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mathews-etiegni-994b8425b/" target="_blank">
@@ -27,4 +27,4 @@ Hi there!✊🏾
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Thewsthews&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=Thewsthews&color=dark_red)
