@@ -37,7 +37,7 @@ Hi there!✊🏾
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.techzine.eu/wp-content/uploads/2022/07/Rust_programming_language_black_logo.svg_-768x410.jpg" alt="rust" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> 
   </a>
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
