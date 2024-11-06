@@ -27,6 +27,6 @@ Hi there!✊🏾
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brutusyhy&show_icons=true&cache_seconds=1800&locale=en&layout=compact&theme=#8B0000" alt="brutusyhy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thewsthews&show_icons=true&cache_seconds=1800&locale=en&layout=compact&theme=#8B0000" alt="Thewsthews" /></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Thewsthews&color=8b0000)
