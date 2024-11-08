@@ -1,6 +1,6 @@
 Hi there!✊🏾
 
-![234bb94a20ded1b5eea0575d246896c7](https://github.com/user-attachments/assets/601e7346-6d7a-4760-b652-0e879bef4fba)
+![cool-dark-red-sky-es4t2jelpx91h04m](https://github.com/user-attachments/assets/84b7d057-d441-4004-86eb-ef4ec6c5378a)
 
 - ⚙  I’m currently working on: Back-end Developing.
 - 🧬 At the moment im cruising through: RubyOnRails.
