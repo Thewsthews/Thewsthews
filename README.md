@@ -1,7 +1,4 @@
 Hi there!✊🏾
-
-![cool-dark-red-sky-es4t2jelpx91h04m](https://github.com/user-attachments/assets/84b7d057-d441-4004-86eb-ef4ec6c5378a)
-
 - ⚙  I’m currently working on: Back-end Developing.
 - 🧬 At the moment im cruising through: RubyOnRails.
 - 📫 How to reach me: You can reach at etiegnim@gmail.com
