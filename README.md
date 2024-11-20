@@ -43,6 +43,9 @@ Hi there!✊🏾
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> 
   </a>
+  <a href="https://github.com/leptos-rs/leptos" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logo.png" alt="leptos" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thewsthews&show_icons=true&cache_seconds=1600&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ff0000&border_color=8B0000" alt="Thewsthews" /></p>
