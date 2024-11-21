@@ -1,4 +1,4 @@
-Hi there!✊🏾
+## Hi there!✊🏾
 - ⚙  I’m currently working on: Back-end Developing.
 - 🧬 At the moment im cruising through: Leptos.
 - 📫 How to reach me: You can reach at etiegnim@gmail.com
