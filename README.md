@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=41&pause=1000&repeat=false&color=7A2609&center=true&width=435&lines=Software+Huntsman+%F0%9F%94%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=41&pause=1000&color=7A2609&center=true&repeat=false&width=435&lines=Software+Huntsman+%F0%9F%94%AA)](https://git.io/typing-svg)
 
 ## Hi there!✊🏾
 - ⚙  I’m currently working on: Back-end Developing.
