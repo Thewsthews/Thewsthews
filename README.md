@@ -5,7 +5,7 @@
 - 🤠 Im looking to collab on: Developing Back-End Systems!
 - 🤓 Im currently looking for help with: Connecting an API to a project.
 - 📎 Fun fact: I love chicken naan and taking the extra mile :).
-- 🌙 Feel free to check my [portfolio](https://thewsthews.github.io/Personal_Portfolio/) website.
+- 🌙 Feel free to check my [portfolio](https://ttcom.vercel.app/) website.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Thewsthews&theme=youtube-dark&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=210)](https://git.io/streak-stats)
 
