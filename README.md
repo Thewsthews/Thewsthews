@@ -6,7 +6,7 @@
 - 🧬 At the moment im cruising through: Leptos.
 - 📫 How to reach me: You can reach at etiegnim@gmail.com
 - 🤠 Im looking to collab on: Developing Back-End Systems!
-- 🤓 Im currently looking for help with: Connecting an API to a project.
+- 🤓 Im currently looking for help with: RESTFUL APIs.
 - 📎 Fun fact: I love chicken naan and taking the extra mile :).
 - 🌙 Feel free to check my [portfolio](https://ttcom.vercel.app/) website.
 
