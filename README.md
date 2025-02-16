@@ -38,13 +38,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujlM6pz2oKtYhJhJBEz_EOm4mQDjVa_taG7E3WtfgmOw_oOL1fDKIP3c7oj8XWZXIcsI&usqp=CAU" alt="rust" width="40" height="40"/> 
 </a>
-  
+  <a href="https://actix.rs/" target="_blank" rel="noreferrer"> 
+    <img src="https://actix.rs/img/logo.png" alt="actix web" width="40" height="40"/> 
+</a>
 <a href="https://diesel.rs/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/16763251?v=4" alt="diesel" width="40" height="40"/>
 </a>
-
 <a href="https://firebase.google.com/docs" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a>
