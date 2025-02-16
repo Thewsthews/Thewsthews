@@ -42,7 +42,7 @@
 </a>
   
 <a href="https://diesel.rs/" target="_blank" rel="noreferrer">
-    <img src="https://diesel.rs/logo.png" alt="diesel" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/16763251?v=4" alt="diesel" width="40" height="40"/>
 </a>
 
 <a href="https://firebase.google.com/docs" target="_blank" rel="noreferrer"> 
