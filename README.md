@@ -63,6 +63,9 @@
   <a href="https://github.com/leptos-rs/leptos" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/118319153?s=200&v=4" alt="leptos" width="40" height="40"/>
 </a>
+<a href="https://dioxuslabs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/146857004?s=280&v=4" alt="dioxus" width="40" height="40"/> 
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thewsthews&show_icons=true&cache_seconds=1600&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ff0000&border_color=8B0000" alt="Thewsthews" /></p>
