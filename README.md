@@ -8,7 +8,7 @@
 - 🤠 Im looking to collab on: Developing Back-End Systems:)
 - ⛓️‍💥 Im currently looking for help with: RESTFUL APIs.
 - 📎 Fun fact: I love chicken naan and taking the extra mile :).
-- 🌙 Feel free to check my [portfolio](https://ttcom.vercel.app/) website.
+- 🫟 Feel free to check my [portfolio](https://ttcom.vercel.app/) website.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Thewsthews&theme=gotham&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=210)](https://git.io/streak-stats)
 
