@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=21&pause=1000&color=701403&repeat=true&width=435&lines=Dioxus%2FRust+Developer;Forever+Honing+The+Edge!" alt="Typing SVG" /></a>
 
 ## Wag1 ✊🏾
-- ⚙  I’m currently working on: Back-end Developing.
+- ⚙️  I’m currently working on: Back-end Developing.
 - 🧬 At the moment im cruising through: Cryptography.
 - 📫 How to reach me: You can reach at etiegnim@gmail.com
 - 🏁 Im looking to collab on: Developing Back-End Systems:)
