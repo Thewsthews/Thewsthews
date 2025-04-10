@@ -3,7 +3,7 @@
 
 ## Wag1 ✊🏾
 - ⚙️  I’m currently working on: Back-end Developing.
-- 🧬 At the moment im cruising through: Cryptography.
+- 🪓 At the moment im cruising through: Cryptography.
 - 📫 How to reach me: You can reach at etiegnim@gmail.com
 - 🏁 Im looking to collab on: Developing Back-End Systems:)
 - ⛓️‍💥 Im currently looking for help with: RESTFUL APIs.
