@@ -14,7 +14,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thewsthews&show_icons=true&theme=shadow_red&hide=stars)](https://github.com/Thewsthews/github-readme-stats)
 
-## Lets Link 🔗
+## Lets Link 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mathews-etiegni-994b8425b/" target="_blank">
