@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=41&pause=1000&color=7A2609&repeat=false&width=435&lines=Software+Huntsman+%F0%9F%94%AA)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=21&pause=1000&color=701403&repeat=true&width=435&lines=Dioxus%2FRust+Developer;Forever+Honing+The+Edge!" alt="Typing SVG" /></a>
 
-## Wag1 👉🏾👈🏾
+## Wag1 🪓
 - ⚙️  I’m currently working on: Back-end Developing.
 - 🪓 At the moment im cruising through: Cryptography.
 - ✉️ How to reach me: You can reach at etiegnim@gmail.com
