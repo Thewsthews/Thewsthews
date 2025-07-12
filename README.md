@@ -5,9 +5,9 @@
 - ⚙️  I’m currently working on: Back-end Developing.
 - 🪓 At the moment im cruising through: Cryptography.
 - ✉️ How to reach me: You can reach at etiegnim@gmail.com
-- 🏁 Im looking to collab on: Developing Back-End Systems:)
-- 🧼 Im currently looking for help with: RESTFUL APIs.
-- 🌴 Fun fact: I love chicken naan and winking :).
+- 🏁 Im looking to collab on: Developing tools and stuff:)
+- 🧼 Im currently looking for help with: rGPC and blockchain
+- 🌴 Fun fact: I love chicken naan and winking and eggs too(i laugh at them in my spare time :).
 - 🫟 Feel free to check my [portfolio](https://m1e.xyz) website.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Thewsthews&theme=gotham&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=210)](https://git.io/streak-stats)
