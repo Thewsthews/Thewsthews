@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-(https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
